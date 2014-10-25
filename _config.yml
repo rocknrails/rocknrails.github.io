@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://rocknrails.github.io
+title: Rock 'n Rails
+tagline: Don't Repeat Yourself
+description: Tentando dominar o mundo com o poder do Rock e do Ruby on Rails, criando um hackerspace para todos que querem aprender!
+paginate: 3
